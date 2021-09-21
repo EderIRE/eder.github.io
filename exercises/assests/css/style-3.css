@@ -45,6 +45,20 @@ select {
 
 /* ================= ENDS ================ */
 
+/* Desktops */
+@media (min-width: 768px) {
+  body {
+    padding: 4% 20%;
+  }
+}
+
+/* Mobiles */
+@media (max-width: 767px) {
+  body {
+    padding: 12% 8%;
+  }
+}
+
 h1 {
   font-size: 84px;
   margin-bottom: 64px;
