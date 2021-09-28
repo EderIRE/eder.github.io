@@ -45,6 +45,10 @@ select {
 
 /* ================= ENDS ================ */
 
+body {
+  background-color: antiquewhite;
+}
+
 /* Desktops */
 @media (min-width: 768px) {
   body {
@@ -61,6 +65,7 @@ select {
 
 h1 {
   font-size: 72px;
+  color: brown;
   margin-bottom: 56px;
   text-align: center;
   letter-spacing: 4px;
@@ -69,6 +74,7 @@ h1 {
 
 h2 {
   font-size: 30px;
+  color: brown;
   margin-bottom: 64px;
   font-family: sans-serif;
   text-align: center;
@@ -79,6 +85,7 @@ h2 {
 
 h3 {
   font-size: 32px;
+  color: brown;
   margin-bottom: 4px;
 }
 
